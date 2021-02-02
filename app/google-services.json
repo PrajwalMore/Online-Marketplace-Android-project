@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715064723527",
+    "firebase_url": "https://blockview-aed78.firebaseio.com",
+    "project_id": "blockview-aed78",
+    "storage_bucket": "blockview-aed78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715064723527:android:1302e55da93d8cb4",
+        "android_client_info": {
+          "package_name": "com.example.admin.blockview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715064723527-s8bh3juahtdatmt76hp7vvsl2hvviuho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.blockview",
+            "certificate_hash": "b78ddd4dcbc45ed1573505928ffb679e5c1bece9"
+          }
+        },
+        {
+          "client_id": "715064723527-jv8kq05e51k8q1m8js7cc4j87p925a39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29mssCf4mGcnDWZt4w1BBEh4igE8qy-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715064723527-jv8kq05e51k8q1m8js7cc4j87p925a39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

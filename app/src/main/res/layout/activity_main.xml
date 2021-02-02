@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8AE41">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="283dp"
+        android:layout_height="61dp"
+        android:layout_below="@id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/shape2"
+        android:hint="   Enter Mail-ID    "
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textColorHint="#8c8c8c"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="283dp"
+        android:layout_height="61dp"
+        android:layout_below="@id/name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape2"
+        android:hint=" Enter password "
+        android:password="true"
+        android:textAlignment="center"
+
+        android:textColor="#ffffff"
+        android:textColorHint="#8c8c8c"
+        android:textSize="24sp"
+        tools:ignore="Deprecated" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="173dp"
+        android:layout_height="61dp"
+        android:layout_below="@id/pass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/shape"
+        android:text="  Login  "
+        android:textColor="#F8AE41"
+        android:textSize="24sp" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="275dp"
+        android:layout_height="165dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/bg"
+        />
+
+
+</RelativeLayout>
