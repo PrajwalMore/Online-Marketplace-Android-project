@@ -8,7 +8,7 @@ Two parties which are interested in transferring or selling or buying asset with
 4.Then customer can see the products they want by typing things they want on textfield and by pressing "Go" button.  
 (In the case of customer also he/she needs to create new account and do login before accessing products/things they want.  
 <b>Screenshots:-</b>  
-![](imgs/screenshots.png)  
+![](imgs/screenshots.jpg)
 <b>IDE:-</b>  
   Andorid studio  
 <b>Database used:-</b>  
